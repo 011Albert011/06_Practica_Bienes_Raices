@@ -70,7 +70,7 @@
             $errores[] = "Elige un vendedor";
 
         if(!$imagen['name'] || $imagen['error'])
-            $errores[] = "La imagen es obligatoria"
+            $errores[] = "La imagen es obligatoria";
 
         //Validar por tamaño (1Mb max)  
         $medida = 1000 * 1000;
