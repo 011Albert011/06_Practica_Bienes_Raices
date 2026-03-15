@@ -36,7 +36,7 @@
     $habitaciones = $propiedad['habitaciones'];
     $wc = $propiedad['wc'];
     $estacionamiento = $propiedad['estacionamiento'];
-    $vendedorId = $propiedad['vendedorId'];
+    $vendedorId = $propiedad['vendedores_id'];
 
     $imagenPropiedad = $propiedad['imagen'];
 
